@@ -160,4 +160,5 @@ Emoji:
 
 :mask:
 
-642115003 Kan 
+642115003 Kan
+642115023 Thanyatorn
